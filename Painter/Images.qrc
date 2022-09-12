@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bucket-icon.png</file>
+        <file>copy-icon.png</file>
+        <file>cut-icon.png</file>
+        <file>edit-icon.png</file>
+        <file>Ellipse-icon.png</file>
+        <file>Final.jpg</file>
+        <file>group-icon.png</file>
+        <file>Images-icon.png</file>
+        <file>Line-icon.png</file>
+        <file>new-icon.png</file>
+        <file>open-file-icon.png</file>
+        <file>Paste-icon.png</file>
+        <file>Picture-icon.png</file>
+        <file>Rectangle-icon.png</file>
+        <file>Redo-icon.png</file>
+        <file>save-icon (1).png</file>
+        <file>Select-icon.png</file>
+        <file>Trash-can-icon.png</file>
+        <file>Undo-icon (1).png</file>
+        <file>ungroup-icon.png</file>
+    </qresource>
+</RCC>
